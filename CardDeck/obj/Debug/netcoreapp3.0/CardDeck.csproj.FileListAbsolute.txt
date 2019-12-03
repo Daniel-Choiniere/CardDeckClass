@@ -1,0 +1,11 @@
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/bin/Debug/netcoreapp3.0/CardDeck
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/bin/Debug/netcoreapp3.0/CardDeck.deps.json
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/bin/Debug/netcoreapp3.0/CardDeck.runtimeconfig.json
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/bin/Debug/netcoreapp3.0/CardDeck.runtimeconfig.dev.json
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/bin/Debug/netcoreapp3.0/CardDeck.dll
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/bin/Debug/netcoreapp3.0/CardDeck.pdb
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/obj/Debug/netcoreapp3.0/CardDeck.csprojAssemblyReference.cache
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/obj/Debug/netcoreapp3.0/CardDeck.AssemblyInfoInputs.cache
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/obj/Debug/netcoreapp3.0/CardDeck.AssemblyInfo.cs
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/obj/Debug/netcoreapp3.0/CardDeck.dll
+/Users/danchoiniere/careerDevs/capstoneProjects/CardDeck/CardDeck/obj/Debug/netcoreapp3.0/CardDeck.pdb
